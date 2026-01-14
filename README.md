@@ -32,8 +32,8 @@ Execução:
 
 RegistrationClient
 cd RegistrationClient
-dotnet run --project RegistrationClient/RegistrationClient.csproj^C
+dotnet run --project RegistrationClient/RegistrationClient.csproj
 
 VotingClient
 cd VotingClient
- dotnet run --project VotingClient/VotingClient.csproj
+dotnet run --project VotingClient/VotingClient.csproj
