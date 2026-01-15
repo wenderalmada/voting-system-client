@@ -24,8 +24,8 @@ voting-system-client/
 
 ## Compilação
 
-Restaurar dependências e compilar os projetos
 ```bash
+Restaurar dependências e compilar os projetos
 dotnet restore
 dotnet build
 
