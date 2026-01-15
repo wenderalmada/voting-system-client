@@ -24,16 +24,17 @@ voting-system-client/
 
 ## Compilação
 
+Restaurar dependências e compilar os projetos
 ```bash
 dotnet restore
 dotnet build
 
 Execução:
 
-RegistrationClient
+Executar o RegistrationClient
 cd RegistrationClient
 dotnet run --project RegistrationClient/RegistrationClient.csproj
 
-VotingClient
+Executar o VotingClient
 cd VotingClient
 dotnet run --project VotingClient/VotingClient.csproj
